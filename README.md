@@ -11,7 +11,8 @@ The **Typing Speed Checker** allows users to test their typing skills by calcula
 - [W3Schools](https://www.w3schools.com/) for HTML/CSS/JS tutorials  
 - [Oracle Java Docs](https://docs.oracle.com/en/java/) for Java reference  
 - [Freepik](https://www.freepik.com) (if any icons or images are used in web version)
-- Inspiration from popular online typing test platforms like [10FastFingers](https://10fastfingers.com/) and [Typing.com](https://www.typing.com/)## 📡 API Reference
+- Inspiration from popular online typing test platforms like [10FastFingers](https://10fastfingers.com/) and [Typing.com](https://www.typing.com/)
+- ## 📡 API Reference
 
 > This project does **not** rely on any external APIs.  
 All logic is self-contained in Java or JavaScript files.
@@ -35,7 +36,7 @@ All logic is self-contained in Java or JavaScript files.
 ## ✍️ Authors
 
 - **Uday** – Project creator  
-  [GitHub Profile](https://github.com/) *(replace with actual URL)*  
+  [GitHub Profile](https://github.com/udaycodespace) 
   CST Student at GPREC(A), Kurnool
 
 ---
