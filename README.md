@@ -1,6 +1,7 @@
 # 🧠 Typing Speed Checker
-A simple yet effective tool to calculate typing speed and accuracy, available in both **Java console** and **Web-based** versions using **HTML5, CSS3, and JavaScript**.## 📜 Description
+A simple yet effective tool to calculate typing speed and accuracy, available in both **Java console** and **Web-based** versions using **HTML5, CSS3, and JavaScript**.
 
+## 📜 Description
 The **Typing Speed Checker** allows users to test their typing skills by calculating **Words Per Minute (WPM)** and **accuracy**. It includes:
 - A **Java console-based version** for command-line users.
 - A **Web version** with an interactive user interface.
