@@ -10,7 +10,6 @@ The **Typing Speed Checker** allows users to test their typing skills by calcula
 
 - [W3Schools](https://www.w3schools.com/) for HTML/CSS/JS tutorials  
 - [Oracle Java Docs](https://docs.oracle.com/en/java/) for Java reference  
-- [Freepik](https://www.freepik.com) (if any icons or images are used in web version)
 - Inspiration from popular online typing test platforms like [10FastFingers](https://10fastfingers.com/) and [Typing.com](https://www.typing.com/)
 - ## 📡 API Reference
 
